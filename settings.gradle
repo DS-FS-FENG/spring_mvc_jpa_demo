@@ -1,0 +1,4 @@
+rootProject.name = 'spring_mvc_jpa_demo'
+
+include 'demo'
+
